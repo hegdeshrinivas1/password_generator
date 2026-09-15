@@ -14,12 +14,6 @@ A simple Python program that generates random passwords based on the number of l
 * Python 3
 * `random` module
 
-## Run
-
-```bash
-python password_generator.py
-```
-
 ## Example
 
 ```text
